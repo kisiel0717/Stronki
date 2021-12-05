@@ -1,0 +1,30 @@
+body{
+    background:url(/Pierwsza_strona/snwflks-5.gif) ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 2000px;
+
+}
+.title{
+    text-align: center;
+    margin-left: 40%;
+    margin-right: 37%;
+    background-color: navy;
+    color: orangered;
+    font-size: 50px;
+}
+.text{
+    background-color: gray;
+    font-size: 30px;
+    text-align: center;
+    padding: 5px;
+}
+#end{
+    margin-left: 45%;
+    margin-right: 43%;
+    font-size: 50px;
+    background-color: tomato;
+}
+#zdj2{
+    float: right;
+}
