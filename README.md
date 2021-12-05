@@ -1,2 +1,0 @@
-# Stronki
-Jeszce zobaczyce
